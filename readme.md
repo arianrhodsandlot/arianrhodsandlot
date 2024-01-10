@@ -4,7 +4,7 @@
 </p>
 
 ## Introduction
-I'm frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
+I'm a frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
 
 You could find some of them that are open-source below.
 
