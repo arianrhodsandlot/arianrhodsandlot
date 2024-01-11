@@ -4,9 +4,9 @@
 </p>
 
 ## Introduction
-I'm a frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
+I'm @arianrhodsandlot, a frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
 
-You could find some of them that are open-source below.
+You can find some of them that are open-source below, and feel free to raise any feedback.
 
 ## My tech stack
 ### Proficient
@@ -59,7 +59,7 @@ You could find some of them that are open-source below.
     ![Markdown](https://img.shields.io/badge/markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&logo=mermaid&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Pug](https://img.shields.io/badge/Pug-white?style=for-the-badge&logo=pug&logoColor=A86454)
+    ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
     ![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
     ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -77,6 +77,7 @@ You could find some of them that are open-source below.
     ![backbonedotjs](https://img.shields.io/badge/backbone.js-0071B5.svg?style=for-the-badge&logo=backbonedotjs&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+    ![codeigniter](https://img.shields.io/badge/codeigniter-EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
     ![cssmodules](https://img.shields.io/badge/css%20modules-black?style=for-the-badge&logo=cssmodules&logoColor=white)
     ![datefns](https://img.shields.io/badge/date%20fns-770C56.svg?style=for-the-badge&logo=datefns&logoColor=white)
     ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -107,17 +108,24 @@ You could find some of them that are open-source below.
   + #### Tools
     ![avajs](https://img.shields.io/badge/-ava-4B4B77?style=for-the-badge&logo=avajs&logoColor=white)
     ![bower](https://img.shields.io/badge/-bower-EF5734?style=for-the-badge&logo=bower&logoColor=white)
+    ![chai](https://img.shields.io/badge/-chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
     ![cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
     ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![editorconfig](https://img.shields.io/badge/-editorconfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=black)
+    ![esbuild](https://img.shields.io/badge/esbuild-FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
+    ![gitlfs](https://img.shields.io/badge/git%20lfs-F64935.svg?style=for-the-badge&logo=gitlfs&logoColor=white)
     ![Grunt](https://img.shields.io/badge/Grunt-FAA918.svg?style=for-the-badge&logo=Grunt&logoColor=white)
     ![Gulp](https://img.shields.io/badge/GULP-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+    ![mocha](https://img.shields.io/badge/-mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
     ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
     ![Nodemon](https://img.shields.io/badge/NODEMON-323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
     ![pipx](https://img.shields.io/badge/-pipx-2CFFAA?style=for-the-badge&logo=pipx&logoColor=black)
     ![pm2](https://img.shields.io/badge/-pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
     ![Poetry](https://img.shields.io/badge/Poetry-3B82F6.svg?style=for-the-badge&logo=poetry&logoColor=white)
+    ![precommit](https://img.shields.io/badge/-precommit-FAB040?style=for-the-badge&logo=precommit&logoColor=black)
+    ![puppeteer](https://img.shields.io/badge/-puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
     ![standardjs](https://img.shields.io/badge/standardjs-F3DF49.svg?style=for-the-badge&logo=standardjs&logoColor=black)
     ![stylelint](https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
     ![swc](https://img.shields.io/badge/swc-black.svg?style=for-the-badge&logo=swc&logoColor=white)
@@ -154,8 +162,8 @@ You could find some of them that are open-source below.
     ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+    ![jsdelivr](https://img.shields.io/badge/jsdelivr-E84D3D.svg?style=for-the-badge&logo=jsdelivr&logoColor=white)
     ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
     ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
     ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -166,6 +174,7 @@ You could find some of them that are open-source below.
 
   + ### Development softwares
     ![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+    ![charles](https://img.shields.io/badge/charles-F3F5F5?style=for-the-badge&logo=charles&logoColor=black)
     ![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
     ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
     ![homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
