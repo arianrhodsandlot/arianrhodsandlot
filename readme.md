@@ -4,7 +4,7 @@
 </p>
 
 ## Introduction
-I'm @arianrhodsandlot, a frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
+I'm [@arianrhodsandlot](https://github.com/arianrhodsandlot), a frontend engineer committed to delivering clean, efficient, maintainable, high-quality code and user-friendly products.
 
 You can find some of them that are open-source below, and feel free to raise any feedback.
 
