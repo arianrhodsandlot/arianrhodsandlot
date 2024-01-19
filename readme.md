@@ -29,7 +29,6 @@ You can find some of them that are open-source below, and feel free to raise any
   ![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 + #### Tools
-  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -107,6 +106,7 @@ You can find some of them that are open-source below, and feel free to raise any
 
   + #### Tools
     ![avajs](https://img.shields.io/badge/-ava-4B4B77?style=for-the-badge&logo=avajs&logoColor=white)
+    ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
     ![bower](https://img.shields.io/badge/-bower-EF5734?style=for-the-badge&logo=bower&logoColor=white)
     ![chai](https://img.shields.io/badge/-chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
     ![cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
