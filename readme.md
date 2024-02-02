@@ -9,13 +9,13 @@ I'm [@arianrhodsandlot](https://github.com/arianrhodsandlot), a frontend enginee
 You can find some of them that are open-source below, and feel free to raise any feedback.
 
 ## My tech stack
-### Proficient
+### Proficient / recently used
+
 + #### Languages & runtimes
   ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 + #### Libraries & frameworks
@@ -42,7 +42,7 @@ You can find some of them that are open-source below, and feel free to raise any
   ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### Have ever used
+### Have ever used or worked with
 
 <details>
   <summary>Expand to see details</summary>
@@ -57,6 +57,7 @@ You can find some of them that are open-source below, and feel free to raise any
     ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&logo=mermaid&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
     ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -65,7 +66,6 @@ You can find some of them that are open-source below, and feel free to raise any
     ![YAML](https://img.shields.io/badge/yaml-white.svg?style=for-the-badge&logo=yaml&logoColor=black)
 
   + #### Libraries & frameworks
-    ![.env](https://img.shields.io/badge/.env-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
     ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
     ![Angular.js](https://img.shields.io/badge/angular.js-E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
     ![Apache Echarts](https://img.shields.io/badge/apache%20echarts-117AC9.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
@@ -77,6 +77,7 @@ You can find some of them that are open-source below, and feel free to raise any
     ![codeigniter](https://img.shields.io/badge/codeigniter-EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
     ![cssmodules](https://img.shields.io/badge/css%20modules-black?style=for-the-badge&logo=cssmodules&logoColor=white)
     ![datefns](https://img.shields.io/badge/date%20fns-770C56.svg?style=for-the-badge&logo=datefns&logoColor=white)
+    ![dotenv](https://img.shields.io/badge/.env-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
     ![ejs](https://img.shields.io/badge/ejs-B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
     ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
     ![esbuild](https://img.shields.io/badge/esbuild-FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
