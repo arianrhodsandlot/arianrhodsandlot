@@ -213,4 +213,4 @@ You can find some of them that are open-source on my GitHub profile.
 
 ## Fun facts
 - My username comes from a combination of *[Arianrhod](https://nihon-falcom.fandom.com/wiki/Arianrhod)* and *[Lianne Sandlot](https://nihon-falcom.fandom.com/wiki/Lianne_Sandlot)*, <del>two characters</del> a character from the *[Trails](https://en.wikipedia.org/wiki/Trails_(series))* series, a series of role-playing video games by [Nihon Falcom](https://www.falcom.co.jp/).
-- My avatar comes from *[Cornelius](https://atlus.com/osl/character/cornelius.html)*,  a character in the video game *[Odin Sphere](https://atlus.com/osl/)* by [Vanillaware](https://vanillaware.co.jp/).
+- My avatar comes from *[Cornelius](https://atlus.com/osl/character/cornelius.html)*, a character in the video game *[Odin Sphere](https://atlus.com/osl/)* by [Vanillaware](https://vanillaware.co.jp/).
