@@ -6,12 +6,12 @@
 ## Introduction
 I'm [@arianrhodsandlot](https://github.com/arianrhodsandlot), a frontend engineer committed to delivering clean, efficient, high-quality code and user-friendly products.
 
-You can find some of them that are open-source below.
+You can find some of them that are open-source on my GitHub profile.
 
 ## My tech stack
-<details>
+<details open>
   <h3 id="proficient-recently-used">Proficient & recently focusing on</h3>
-  <summary>Expand to see details</summary>
+  <summary>Expand/collapse details</summary>
   <ul>
     <li>
       <h4 id="languages-runtimes">Languages & runtimes</h4>
@@ -40,7 +40,7 @@ You can find some of them that are open-source below.
       <p>
         <img src="https://img.shields.io/badge/ESLint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
         <img src="https://img.shields.io/badge/git-f05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/playwright-2ead33.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/playwright-2ead33.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+Cgk8cGF0aCBmaWxsPSIjZmZmIiBkPSJtNzIuMDg2IDg2LjEzMmwtLjU5NC0uMTQ0Yy0xMy4xMjUtMy44NDQtMTUuMTUtMTQuMzExLTE1LjE1LTE0LjMxMWwxOC4xODIgNS4wODJMODQuMTUgMzkuNzdsLS4xMTYtLjAzMWMtMTEuODA3LTMuMTYyLTE5LjY0LTguNjkyLTIyLjc0NC0xMS4yOTJjLTQuNC0zLjY4NS02LjMzNS02LjI0Ni04LjI0LTIuMzcyYy0xLjY4MiAzLjQxNy0zLjgzNiA4Ljk3Ny01LjkyIDE2Ljc2MmMtNC41MTYgMTYuODU3LTcuODkyIDUyLjQyOSAyMC4wMjcgNTkuOTE0bC41NzIuMTI5em0tMTguODA3LTMwLjg1czQuNC02Ljg0MyAxMS44NjItNC43MjJjNy40NjcgMi4xMjEgOC4wNDUgMTAuMzc2IDguMDQ1IDEwLjM3NnptLTguNTE3IDIzLjQ1MUwzMS43ODcgODIuNDFzMS40MS04LjAyOSAxMC45NjgtMTEuMjEybC03LjM0Ny0yNy41NzNsLS42MzUuMTkzYy05LjExMSAyLjQ1Ny0xNi40NzYgMS44MDUtMTkuNTUgMS4yNzNjLTQuMzU3LS43NTEtNi42MzYtMS43MDgtNi40MjIgMS42MDZjLjE4NiAyLjkyMy44ODIgNy40NTQgMi40NzcgMTMuNDRjMy40NSAxMi45NjEgMTQuODU0IDM3LjkzNyAzNi40MDUgMzIuMTMybC42MzUtLjE5OXpNMTkuNTQ4IDYwLjMxNWwxNS4zMTYtNC4wMzVzLS40NDYgNS44OTItNi4xODggNy40MDVjLTUuNzQzIDEuNTEyLTkuMTI4LTMuMzcxLTkuMTI4LTMuMzcxem04OS44MjQtMTguOTc5Yy0zLjk4MS42OTgtMTMuNTMyIDEuNTY3LTI1LjMzNi0xLjU5NmMtMTEuODA3LTMuMTYyLTE5LjY0LTguNjkyLTIyLjc0NC0xMS4yOTJjLTQuNC0zLjY4NS02LjMzNS02LjI0Ni04LjI0LTIuMzcyYy0xLjY4NCAzLjQxNy0zLjgzNyA4Ljk3Ny01LjkyMSAxNi43NjJjLTQuNTE2IDE2Ljg1Ny03Ljg5MiA1Mi40MjkgMjAuMDI3IDU5LjkxNGMyNy45MTIgNy40NzkgNDIuNzcyLTI1LjAxNyA0Ny4yODktNDEuODc1YzIuMDg0LTcuNzgzIDIuOTk4LTEzLjY3NiAzLjI1LTE3LjQ3NmMuMjg3LTQuMzA1LTIuNjctMy4wNTUtOC4zMjQtMi4wNjR6TTUzLjI4IDU1LjI4MnM0LjQtNi44NDMgMTEuODYyLTQuNzIyYzcuNDY3IDIuMTIxIDguMDQ1IDEwLjM3NiA4LjA0NSAxMC4zNzZ6bTE4LjIxNSAzMC43MDZjLTEzLjEyNS0zLjg0NS0xNS4xNS0xNC4zMTEtMTUuMTUtMTQuMzExbDM1LjI1OSA5Ljg1OGMwLS4wMDItNy4xMTcgOC4yNS0yMC4xMDkgNC40NTNtMTIuNDY2LTIxLjUxczQuMzk0LTYuODM4IDExLjg1NC00LjcxMWM3LjQ2IDIuMTI0IDguMDQ4IDEwLjM3OSA4LjA0OCAxMC4zNzl6TTUxLjczMiA4My45MzV2LTcuMTc5bC0xOS45NDUgNS42NTZzMS40NzQtOC41NjMgMTEuODc2LTExLjUxNGMzLjE1NS0uODk0IDUuODQ2LS44ODggOC4wNjktLjQ1OVY0MC45OTVoOS45ODdjLTEuMDg3LTMuMzYtMi4xMzktNS45NDctMy4wMjMtNy43NDRjLTEuNDYxLTIuOTc1LTIuOTYtMS4wMDMtNi4zNjEgMS44NDJjLTIuMzk2IDIuMDAxLTguNDUgNi4yNzEtMTcuNTYxIDguNzI2Yy05LjExMSAyLjQ1Ny0xNi40NzYgMS44MDUtMTkuNTUgMS4yNzNjLTQuMzU3LS43NTItNi42MzYtMS43MDgtNi40MjIgMS42MDVjLjE4NiAyLjkyMy44ODIgNy40NTUgMi40NzcgMTMuNDRjMy40NSAxMi45NjIgMTQuODU0IDM3LjkzNyAzNi40MDUgMzIuMTMyYzUuNjI5LTEuNTE3IDkuNjAzLTQuNTE1IDEyLjM1Ny04LjMzNmgtOC4zMDlabS0zMi4xODUtMjMuNjJsMTUuMzE2LTQuMDM1cy0uNDQ2IDUuODkyLTYuMTg4IDcuNDA1Yy01Ljc0MyAxLjUxMi05LjEyOC0zLjM3MS05LjEyOC0zLjM3MXoiIC8+Cjwvc3ZnPg==&logoColor=white" alt="Playwright" />
         <img src="https://img.shields.io/badge/pnpm-4a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM" />
         <img src="https://img.shields.io/badge/Prettier-f7b93e.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" />
         <img src="https://img.shields.io/badge/vite-646cff.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -49,7 +49,7 @@ You can find some of them that are open-source below.
   </ul>
   <h3 id="have-ever-used-or-worked-with">Have ever used or worked with</h3>
   <details>
-    <summary>Expand to see details</summary>
+    <summary>Expand/collapse details</summary>
     <ul>
       <li>
         <h4>Languages & runtimes</h4>
@@ -117,13 +117,15 @@ You can find some of them that are open-source below.
         <h4>Tools</h4>
         <img src="https://img.shields.io/badge/ava-4B4B77?style=for-the-badge&logo=avajs&logoColor=white" alt="avajs" />
         <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
-        <img src="https://img.shields.io/badge/bower-EF5734?style=for-the-badge&logo=bower&logoColor=white" alt="bower" />
+        <img src="https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white" alt="Biome" />
+        <img src="https://img.shields.io/badge/bower-ef5734?style=for-the-badge&logo=bower&logoColor=white" alt="Bower" />
         <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai" />
         <img src="https://img.shields.io/badge/cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" />
         <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/editorconfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=black" alt="editorconfig"/>
         <img src="https://img.shields.io/badge/esbuild-ffcf00.svg?style=for-the-badge&logo=esbuild&logoColor=black" alt="esbuild" />
         <img src="https://img.shields.io/badge/git%20lfs-f64935.svg?style=for-the-badge&logo=gitlfs&logoColor=white" alt="gitlfs" />
+        <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
         <img src="https://img.shields.io/badge/Grunt-faa918.svg?style=for-the-badge&logo=Grunt&logoColor=white" alt="Grunt" />
         <img src="https://img.shields.io/badge/GULP-cf4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
         <img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -139,10 +141,12 @@ You can find some of them that are open-source below.
         <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="puppeteer" />
         <img src="https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=rolldown&logoColor=white" alt="Rolldown" />
         <img src="https://img.shields.io/badge/Rollup-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white" alt="RollupJS" />
+        <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/standardjs-f3df49.svg?style=for-the-badge&logo=standardjs&logoColor=black" alt="standardjs" />
         <img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white" alt="stylelint" />
         <img src="https://img.shields.io/badge/swc-black.svg?style=for-the-badge&logo=swc&logoColor=white" alt="swc" />
         <img src="https://img.shields.io/badge/vagrant-1563ff.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" />
+        <img src="https://img.shields.io/badge/vitepress-5c73e7.svg?style=for-the-badge&logo=vitepress&logoColor=white" alt="Vitest" />
         <img src="https://img.shields.io/badge/vitest-6e9f18.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
         <img src="https://img.shields.io/badge/webpack-8dd6f9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
         <img src="https://img.shields.io/badge/yarn-2c8ebb.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
@@ -151,7 +155,7 @@ You can find some of them that are open-source below.
   </details>
   <h2 id="my-toolbox">My toolbox</h2>
   <details>
-    <summary>Expand to see details</summary>
+    <summary>Expand/collapse details</summary>
     <ul>
       <li>
         <h3>Operating systems</h3>
@@ -192,8 +196,9 @@ You can find some of them that are open-source below.
         <h3>Development software</h3>
         <img src="https://img.shields.io/badge/charles-F3F5F5?style=for-the-badge&logo=charles&logoColor=black" alt="charles" />
         <img src="https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white" alt="curl" />
-        <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="homebrew" />
+        <img src="https://img.shields.io/badge/homebrew-fbb040?style=for-the-badge&logo=homebrew&logoColor=black" alt="homebrew" />
         <img src="https://img.shields.io/badge/iterm2-000.svg?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2" />
+        <img src="https://img.shields.io/badge/macports-1e79e9?style=for-the-badge&logo=macports&logoColor=white" alt="macports" />
         <img src="https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge&logo=Starship&logoColor=white" alt="Starship" />
         <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
         <img src="https://img.shields.io/badge/VIM-11ab00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
@@ -204,3 +209,9 @@ You can find some of them that are open-source below.
     </ul>
   </details>
 </details>
+
+
+## Fun facts
+- My username comes from a combination of *[Arianrhod](https://nihon-falcom.fandom.com/wiki/Arianrhod)* and *[Lianne Sandlot](https://nihon-falcom.fandom.com/wiki/Lianne_Sandlot)*, <del>two characters</del> a character from the *Trails* series, a series of role-playing video games by [Nihon Falcom](https://www.falcom.co.jp/).
+- My avatar comes from *[Cornelius](https://atlus.com/osl/character/cornelius.html)*,  a character in the video game *[Odin Sphere](https://atlus.com/osl/)* by [Vanillaware](https://vanillaware.co.jp/).
+
