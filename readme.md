@@ -6,9 +6,7 @@
 ## Introduction
 I'm [@arianrhodsandlot](https://github.com/arianrhodsandlot), a frontend engineer committed to delivering clean, efficient, high-quality code and user-friendly products.
 
-<p>
-You can find some of them that are open-source on my GitHub profile. They have garnered <img src="https://img.shields.io/github/stars/arianrhodsandlot?style=flat-square&logo=github&label=%20&color=1f2328" alt="GitHub stars" style="vertical-align:middle;"> stars in total.
-</p>
+You can find some of them that are open-source on my GitHub profile. They have garnered around ![GitHub stars](https://img.shields.io/github/stars/arianrhodsandlot?style=flat-square&logo=github&label=%20&color=1f2328) stars in total.
 
 ## My tech stack
 <details>
