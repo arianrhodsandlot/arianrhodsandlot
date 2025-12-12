@@ -9,7 +9,7 @@ I'm [@arianrhodsandlot](https://github.com/arianrhodsandlot), a frontend enginee
 You can find some of them that are open-source on my GitHub profile.
 
 ## My tech stack
-<details open>
+<details>
   <h3 id="proficient-recently-used">Proficient & recently focusing on</h3>
   <summary>Expand/collapse details</summary>
   <ul>
@@ -48,7 +48,7 @@ You can find some of them that are open-source on my GitHub profile.
     </li>
   </ul>
   <h3 id="have-ever-used-or-worked-with">Have ever used or worked with</h3>
-  <details>
+  <details open>
     <summary>Expand/collapse details</summary>
     <ul>
       <li>
@@ -154,7 +154,7 @@ You can find some of them that are open-source on my GitHub profile.
     </ul>
   </details>
   <h2 id="my-toolbox">My toolbox</h2>
-  <details>
+  <details open>
     <summary>Expand/collapse details</summary>
     <ul>
       <li>
